@@ -1,6 +1,6 @@
 public class EinsteinMaster{
     //Replace you EMAIL Id here
-    public static final String USER_EMAIL = '<Your Email ID>';
+    public static final String USER_EMAIL = 'ppilli240@gmail.com';
     public static string API = 'https://api.einstein.ai/v2';
     
     
